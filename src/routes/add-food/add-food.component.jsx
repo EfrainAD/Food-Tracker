@@ -1,8 +1,8 @@
-
+import FormAddFood from "../../components/form-add-food/form-add-food.component"
 
 const AddFoodItem = () => {
      return (
-          <h2>Add Item here</h2>
+          <FormAddFood />
      )
 }
 
