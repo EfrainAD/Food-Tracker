@@ -1,3 +1,7 @@
+# Food Tracker
+Made to track what food's you have eaten and if you liked them or not. So you kno what you have eaten at what restaurant and if you liked it for places you don't go too often and can't recall what it was, and for things you just don't recall the names of.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
