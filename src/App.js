@@ -8,7 +8,6 @@ function App() {
     <Routes>
       <Route path='/' element={<Navbar />}>
         <Route 
-          path='/'
           index
           element={<Home />}
         />
